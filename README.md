@@ -1,2 +1,2 @@
 # pacote-d012
-repositorio de um site de cordeu
+repositorio de um site de cordel
