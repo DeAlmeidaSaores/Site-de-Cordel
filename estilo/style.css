@@ -32,16 +32,14 @@ html, body {
 
 header {
     font-family: var(--fonte2);
-    background-color: white;
-    color:black;
+    background-color: black;
+    color:white;
     text-align: center;
-    box-shadow: 2px 2px 2px black;
 }
 
 header > h1 {
     font-family: var(--fonte2);
     padding-top: 50px;
-    font-variant: small-caps;
     font-size: 7vw;
 }
 
@@ -69,7 +67,7 @@ section{
     padding-bottom: 10vh;
     line-height: 2em;
     padding-left: 30px;
-    font-size: 4vw;
+    font-size: 3vw;
     font-weight: normal;
 }
 
@@ -93,7 +91,7 @@ section.imagem > p {
 }
 
 section#ima01 {
-    background-image: url('../imagens/71ba9299280707.5eef84e1c680c.jpg');
+    background-image: url('../imagens/15576082535cd7373dc515b_1557608253_3x2_rt.jpg');
     background-position:  top center;
     background-color: cover;
     background-attachment: fixed;
@@ -101,7 +99,7 @@ section#ima01 {
 }
 
 section#ima02 {
-    background-image: url('../imagens/71ba9299280707.5eef84e1c680c.jpg');
+    background-image: url('../imagens/y4T9avdxBn5liWJE.JPG');
     background-position:  bottom center;
     background-color: cover;
     background-attachment: fixed;
@@ -109,7 +107,7 @@ section#ima02 {
 }
 
 section#ima03 {
-    background-image: url('../imagens/f1d24033c23d0b0eabb4124f55bf8470.jpg');
+    background-image: url('../imagens/523269-28423-1280.jpg');
     background-position: top center;
     background-color: cover;
     background-attachment: fixed;
@@ -117,7 +115,7 @@ section#ima03 {
 }
 
 section#ima04 {
-    background-image: url('../imagens/f1d24033c23d0b0eabb4124f55bf8470.jpg');
+    background-image: url('../imagens/olinda\ 1\ -\ 098.JPG');
     background-position: bottom center;
     background-color: cover;
     background-attachment: fixed;
