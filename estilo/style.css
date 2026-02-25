@@ -10,7 +10,7 @@
 }
 @font-face {
     font-family: 'caligrafia';
-    src: url('../fontes/Magston\ Cordeli.otf') format('opentype');
+    src: url('../fontes/Birds\ of\ Paradise\ ©\ PERSONAL\ USE\ ONLY.ttf') format('truetype');
 }
 :root {
     --fonte1: Verdana, Geneva, Tahoma, sans-serif;
@@ -40,12 +40,12 @@ header {
 header > h1 {
     font-family: var(--fonte2);
     padding-top: 50px;
-    font-size: 7vw;
+    font-size: 4vw;
 }
 
 header > h2 {
     font-family: var(--fonte3);
-    font-size: 7vw;
+    font-size: 3vw;
 }
 
 header > p {
@@ -68,12 +68,12 @@ section{
     line-height: 2em;
     padding-left: 30px;
     font-size: 3vw;
-    font-weight: normal;
+   
 }
 
 section.normal{
     background-color: white;
-    color: black;
+    color: rgb(0, 0, 0);
 }
 
 section.imagem {
@@ -85,7 +85,7 @@ section.imagem {
 
 section.imagem > p {
     display: inline-block;
-    background-color: rgba(94, 82, 82, 0.477);
+    background-color: rgba(94, 82, 82, 0.685);
     padding: 5px;
     text-shadow: 1px  1px 0px rgba(0, 0, 0, 0.582) ;
 }
@@ -126,5 +126,5 @@ footer {
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
